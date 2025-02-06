@@ -17,5 +17,7 @@
 </ul>
 
 <h2>📫 How to reach me</h2>
-  https://www.linkedin.com/in/catia-barros/
-  
+https://www.linkedin.com/in/catia-barros/
+
+<h2>✌️ Fun Fact</h2>
+I love working out helps me stay positive
