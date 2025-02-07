@@ -20,4 +20,4 @@
 https://www.linkedin.com/in/catia-barros/
 
 <h2>✌️ Fun Fact</h2>
-I love working out helps me stay positive
+I love going to the gym helps me stay positive
