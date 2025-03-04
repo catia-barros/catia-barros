@@ -1,7 +1,7 @@
 <h1>👋 Hi, I am Cátia Barros!</h1>
 
 <h2>👀 About me</h2>
-<p> I am a MSc Computer Science with AI student passionate about coding and enjoy working with new technologies.</p>
+<p> I am a MSc Computer Science with Artificial Intelligence student passionate about coding and enjoy working with new technologies.</p>
 
 🌱 I’m currently learning Python, HTML & CSS, JavaScript and React
 
