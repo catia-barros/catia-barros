@@ -3,8 +3,6 @@
 <h2>👀 About me</h2>
 <p> I am a MSc Computer Science with Artificial Intelligence student passionate about coding and enjoy working with new technologies.</p>
 
-🌱 I’m currently learning Python, HTML & CSS, JavaScript and React
-
 <h2>🛠️ Technologies</h2>
 <ul>
   <li>Python</li>
@@ -20,4 +18,4 @@
 https://www.linkedin.com/in/catia-barros/
 
 <h2>✌️ Fun Fact</h2>
-I love going to the gym helps me stay positive
+<p></p>I love going to the gym and cook new recipes</p>
