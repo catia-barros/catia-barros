@@ -6,6 +6,7 @@
 <h2>🛠️ Technologies</h2>
 <ul>
   <li>Python</li>
+  <li>C++</li>
   <li>JavaScript</li>
   <li>React</li>
   <li>HTML & CSS</li>
