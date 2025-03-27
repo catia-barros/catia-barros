@@ -6,10 +6,10 @@
 <h2>🛠️ Technologies</h2>
 <ul>
   <li>Python</li>
-  <li>SQL</li>
-  <li>HTML & CSS</li>
   <li>JavaScript</li>
   <li>React</li>
+  <li>HTML & CSS</li>
+  <li>SQL</li>
   <li>Machine Learning</li>
   <li>AI</li>
 </ul>
