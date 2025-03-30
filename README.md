@@ -7,9 +7,7 @@
 <ul>
   <li>Python</li>
   <li>C++</li>
-  <li>HTML & CSS</li>
-  <li>JavaScript</li>
-  <li>React.js</li>
+  <li>Web Development - HTML, CSS, JavaScript & React.js</li>
   <li>Django</li>
   <li>Database Design - SQL</li>
   <li>Cloud Computing</li>
