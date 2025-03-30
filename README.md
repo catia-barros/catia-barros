@@ -14,7 +14,7 @@
   <li>Database Design - SQL</li>
   <li>Cloud Computing<li>
   <li>Machine Learning</li>
-  <li>AI</li>
+  <li>AI</li> 
 </ul>
 
 <h2>📫 How to reach me</h2>
