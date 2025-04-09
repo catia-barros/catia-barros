@@ -3,11 +3,11 @@
 <h2>👀 About me</h2>
 <p> I am an MSc Computer Science with Artificial Intelligence student with a passion for coding, AI and new technologies. I thrive on solving complex problems and continuously expanding my knowledge in software engineering and artificial intelligence</p>
 
-<h2>🛠️ Technologies</h2>
+<h2>🛠️ Skills</h2>
 <ul>
-  <li>Python C++ HTML CSS JavaScript</li>
-  <li>React.js Django SQL++</li>
-  <li>Cloud Computing Machine Learning Artificial Intelligence</li>
+  <li>Programming: Python, C++, HTML, CSS, JavaScript, React.js</li>
+  <li>Database & Cloud: SQL, Cloud Computing</li>
+  <li>AI & ML: Machine Learning, Artificial Intelligence, Big Data Analytics, Mathematics</li>
 </ul>
 
 <h2>📫 How to reach me</h2>
