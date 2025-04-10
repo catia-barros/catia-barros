@@ -11,7 +11,7 @@
 </ul>
 
 <h2>📂 Projects & Interests<\h2>
-<p>I'm focused on leveraging technology to create innovative solutions and explore new possibilities in AI and machine learning. My GitHub is where I will be showcasing my growth and collaborative efforts.</p>
+<p> I'm focused on leveraging technology to create innovative solutions and explore new possibilities in AI and machine learning. My GitHub is where I will be showcasing my growth and collaborative efforts. </p>
 
 <h2>📫 How to reach me</h2>
 https://www.linkedin.com/in/catia-barros/
