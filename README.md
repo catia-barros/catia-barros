@@ -18,3 +18,4 @@ https://www.linkedin.com/in/catia-barros/
 
 <h2>🌟 A little about me</h2>
 <p>When I'm not coding, you'll find me at the gym or experimenting with new recipes in the kitchen!</p>
+<p>Portuguese is my native language.</p>
