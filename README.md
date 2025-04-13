@@ -13,9 +13,11 @@
 <h2>📂 Projects & Interests</h2>
 <p> I'm focused on leveraging technology to create innovative solutions and explore new possibilities in AI and machine learning. My GitHub is where I will be showcasing my growth and collaborative efforts. </p>
 
+<h2>🌍 Languages</h2>
+<p>Portuguese is my native language and I speak fluent English!</p>
+
 <h2>📫 How to reach me</h2>
 https://www.linkedin.com/in/catia-barros/
 
 <h2>🌟 A little about me</h2>
 <p>When I'm not coding, you'll find me at the gym or experimenting with new recipes in the kitchen!</p>
-<p>Portuguese is my native language.</p>
